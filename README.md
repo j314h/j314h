@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋  
+
+🙋‍♀️ A short introduction for john
+
+> Eh, je m'appelle john, bienvenu sur mon github  
+> Je suis développeur web Javascript et Php  
+> Je travaille avec les frameworks, REACT, RXJ, VUEJS, LARAVEL, ADONIS et TAILWINDCSS  
+> Peut-être que vous trouverez quelque chose qui vous intéresse ici ;-)  
+
+> Hey, my name is john and welcome to my github john_dev  
+> I am a Javascript and Php web developer  
+> I work with the frameworks, REACT, RXJ, VUEJS, LARAVEL, ADONIS et TAILWINDCSS  
+> Maybe you'll find something you're interested in here ;-)
 
 <!--
 **j314h/j314h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
