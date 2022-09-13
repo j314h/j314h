@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-🙋‍♀️ A short introduction for john
+🙋‍♀️ A short introduction
 
 > Eh, je m'appelle john, bienvenu sur mon github  
 > Je suis développeur web Javascript et Php  
