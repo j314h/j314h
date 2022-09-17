@@ -4,14 +4,14 @@
 
 > Eh, je m'appelle john, bienvenu sur mon github  
 > Je suis développeur web Javascript et Php  
-> Je travaille avec les frameworks, REACT, VUEJS, REMIXJS, LARAVEL  
+> Je travaille avec les frameworks, REACT, VUEJS, LOOPBACK, LARAVEL  
 > Peut-être que vous trouverez quelque chose qui vous intéresse ici ;-)  
 
 🙋‍♀️ A short introduction  
 
 > Hey, my name is john and welcome to my github john_dev  
 > I am a Javascript and Php web developer  
-> I work with the frameworks, REACT, VUEJS, REMIXJS, LARAVEL  
+> I work with the frameworks, REACT, VUEJS, LOOPBACK, LARAVEL  
 > Maybe you'll find something you're interested in here ;-)
 
 <!--
