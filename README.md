@@ -4,13 +4,15 @@
 
 > Eh, je m'appelle john, bienvenu sur mon github  
 > Je suis développeur web Javascript et Php  
-> Je travaille avec les frameworks, REACT, VUEJS, NESTJS, LARAVEL   
+> Je travaille avec les frameworks, REACT et SYMFONY  
+> mais je m'intéresse à tous 😄 
 
 🙋‍♀️ A short introduction  
 
 > Hey, my name is john and welcome to my github john_dev  
 > I am a Javascript and Php web developer  
-> I work with the frameworks, REACT, VUEJS, NESTJS, LARAVEL
+> I work with the frameworks, REACT and SYMFONY  
+> but i'm interested in everyone 😄
 
 <!--
 **j314h/j314h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
