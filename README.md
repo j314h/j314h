@@ -4,14 +4,14 @@
 
 > Eh, je m'appelle john, bienvenu sur mon github  
 > Je suis développeur web Javascript et Php  
-> Je travaille avec les frameworks, SOLIDJS, REACTJS et SYMFONY  
+> Je travaille avec les frameworks, REACTJS et SYMFONY  
 > mais je m'intéresse à tous 😄 
 
 🙋‍♀️ A short introduction  
 
 > Hey, my name is john and welcome to my github john_dev  
 > I am a Javascript and Php web developer  
-> I work with the frameworks, SOLIDJS, REACTJS and SYMFONY  
+> I work with the frameworks, REACTJS and SYMFONY  
 > but i'm interested in everyone 😄
 
 <!--
