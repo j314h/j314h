@@ -4,15 +4,13 @@
 
 > Eh, je m'appelle john, bienvenu sur mon github  
 > Je suis développeur web Javascript et Php  
-> Je travaille avec les frameworks, REACTJS et SYMFONY  
-> mais je m'intéresse à tous 😄 
+> Je travaille avec les frameworks, REACTJS et SYMFONY 😄 
 
 🙋‍♀️ A short introduction  
 
 > Hey, my name is john and welcome to my github john_dev  
 > I am a Javascript and Php web developer  
-> I work with the frameworks, REACTJS and SYMFONY  
-> but i'm interested in everyone 😄
+> I work with the frameworks, REACTJS and SYMFONY 😄
 
 <!--
 **j314h/j314h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
