@@ -2,15 +2,23 @@
 
 🙋‍♀️ Intro
 
-> Eh, je m'appelle john, bienvenu sur mon github  
-> Je suis développeur web Javascript et Php  
-> Je travaille avec les frameworks, REACTJS et SYMFONY 😄 
+> Eh, moi c'est john, bienvenu sur mon github  
+> Je suis développeur web JS/TS, PHP, RUST  
+> Je travaille avec les frameworks/outils :
+> ANGULAR/REACT
+> SYMFONY
+> AXUM
+> CLAP
 
 🙋‍♀️ A short introduction  
 
 > Hey, my name is john and welcome to my github john_dev  
 > I am a Javascript and Php web developer  
-> I work with the frameworks, REACTJS and SYMFONY 😄
+> I work with the frameworks/tools : 
+> ANGULAR/REACT
+> SYMFONY
+> AXUM
+> CLAP
 
 <!--
 **j314h/j314h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
