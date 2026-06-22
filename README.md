@@ -3,14 +3,14 @@
 🙋‍♀️ Intro
 
 > Eh, moi c'est john, bienvenu sur mon github  
-> Je suis développeur web TS, PHP, GO, PYTHON
-> Frameworks/tools : ANGULAR, REACT, HONO, SYMFONY, GIN, FASTAPI
+> Je suis développeur web TS, PHP, GO, PYTHON  
+> Frameworks/tools : ANGULAR, REACT, HONO, SYMFONY, GIN, FASTAPI  
 
 🙋‍♀️ A short introduction  
 
 > Hey, my name is john and welcome to my github john_dev  
-> I am a web developer TS, PHP, GO, PYTHON 
-> Frameworks/tools : ANGULAR, REACT, HONO, SYMFONY, GIN, FASTAPI
+> I am a web developer TS, PHP, GO, PYTHON  
+> Frameworks/tools : ANGULAR, REACT, HONO, SYMFONY, GIN, FASTAPI  
 
 <!--
 **j314h/j314h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
